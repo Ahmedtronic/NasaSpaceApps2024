@@ -71,6 +71,10 @@ AgriData is participating in the NASA Space Apps competition to develop an intel
    - The Hugging Face-based LLM generates recommendations in real-time, advising the farmer on necessary procedures (irrigation, fertilization, etc.).
    - The recommendations are presented in both Arabic and English.
 
+## Model Example with Streamlit: 
+![Recommendation System](https://github.com/Ahmedtronic/NasaSpaceApps2024/blob/main/testing%20potato%20model.png)
+
+
 
 ## Models Accuracies:
 - Corn : Train : 99% , Test : 96%
@@ -78,7 +82,8 @@ AgriData is participating in the NASA Space Apps competition to develop an intel
 - Tomato: Train: 94% , Test : 94%
 - Potato: Train: 98% , Test : 97%
 all models accuricies are detailed in the notebooks.
-  
+
+
 
 ## Conclusion
 
