@@ -1,5 +1,5 @@
 # AgriData Team Documentation: NASA Space Apps Challenge
-
+   ![AgriData](https://github.com/Ahmedtronic/NasaSpaceApps2024/blob/main/AgirData.png)
 ## Project Overview
 
 AgriData is participating in the NASA Space Apps competition to develop an intelligent system that assists farmers and agricultural engineers in managing their farms and crops more efficiently. The system leverages artificial intelligence and machine learning to monitor the health of plants, detect diseases, and provide tailored recommendations for farm management. The system focuses on the following key functionalities:
