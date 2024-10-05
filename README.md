@@ -11,6 +11,8 @@ AgriData is participating in the NASA Space Apps competition to develop an intel
 2. **Recommendation System (LLM)**:
    - **Objective**: Provide guidance and suggestions to farmers based on weather conditions, geographic location, the type of plants being cultivated, and land type.
    - **Languages Supported**: Arabic and English
+- Screenshot:
+   ![Recommendation System]([./images/recommendation_system.png](https://github.com/Ahmedtronic/NasaSpaceApps2024/blob/main/testing%20recommnder%20en.png))
 
 ## Key Features
 
