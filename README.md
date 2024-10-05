@@ -65,6 +65,15 @@ AgriData is participating in the NASA Space Apps competition to develop an intel
    - The Hugging Face-based LLM generates recommendations in real-time, advising the farmer on necessary procedures (irrigation, fertilization, etc.).
    - The recommendations are presented in both Arabic and English.
 
+
+## Models Accuracies:
+- Corn : Train : 99% , Test : 96%
+- Rice : Train : 99% , Test : 99%
+- Tomato: Train: 94% , Test : 94%
+- Potato: Train: 98% , Test : 97%
+all models accuricies are detailed in the notebooks.
+  
+
 ## Conclusion
 
 AgriData's system provides a comprehensive and user-friendly solution to help farmers and agricultural engineers manage their crops more effectively. By combining machine learning for plant disease detection with an LLM-based recommendation system, we enable more informed decision-making and reduce the risks associated with crop failure. Our solution is scalable, multilingual, and designed to support farmers across diverse regions and crop types.
